@@ -1,4 +1,4 @@
 
 add_library(testlib
-        ${CMAKE_CURRENT_LIST_DIR}/test.c
-        )
+    ${CMAKE_CURRENT_LIST_DIR}/test.c
+)
