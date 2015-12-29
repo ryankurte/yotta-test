@@ -1,0 +1,11 @@
+{
+  "name": "testlib",
+  "version": "0.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "extraIncludes": [
+    "include"
+  ]
+}

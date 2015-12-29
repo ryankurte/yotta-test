@@ -1,0 +1,11 @@
+{
+  "name": "main",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "testlib": "^0.0.0"
+  }
+}
