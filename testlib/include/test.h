@@ -6,7 +6,7 @@
 extern "C" {
 #endif
 
-void LIB_print(char* str);
+void LIB_print(const char* str);
 
 #ifdef __cplusplus
 }

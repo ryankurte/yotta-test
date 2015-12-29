@@ -5,7 +5,9 @@
 
 int main(int argc, char** argv) {
 
-    LIB_print("cats\r\n");
+	const char* str = "cats\r\n";
+
+    LIB_print(str);
 
     return 0;
 }

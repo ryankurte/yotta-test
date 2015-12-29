@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-void LIB_print(char* str) {
+void LIB_print(const char* str) {
     printf("%s", str);
 }
 
